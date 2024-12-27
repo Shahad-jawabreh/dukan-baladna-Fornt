@@ -1,0 +1,12 @@
+  String userProfileImage = 'assets/defualtuser.jpg';
+  String userName = '';
+  String userEmail = '';
+  String address = '';
+  String phoneNumber = '';
+  bool isLogin = false ;
+  String userId ='';
+  String? token= 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NzQzODA0ODY3ZGZjZjk0NzkzMzgxMDIiLCJyb2xlIjoic2FsZXIiLCJlbWFpbCI6ImFobWFkamF3YWJyZWgzM0BnbWFpbC5jb20iLCJpYXQiOjE3MzQ3MjE3NzB9.dHSzipKTotmyRiqtnK42gnpb_ZTBJ7YmjMzcaKTBgyg';
+  int cartCount = 0; // Number of items in the cart
+  bool flagLog = false;
+  int notificationCount = 0; // Initial unseen notification count
+  String? domain = 'http://10.0.2.2:4000' ;

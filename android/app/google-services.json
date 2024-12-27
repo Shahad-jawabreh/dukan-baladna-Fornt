@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890614234250",
+    "project_id": "dukan-baladna-99045",
+    "storage_bucket": "dukan-baladna-99045.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890614234250:android:56ea53be4233249cd74173",
+        "android_client_info": {
+          "package_name": "com.example.dukan_baladna"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjeI6_fqEIszdtnTjkvJBKXGmO_7QBvnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
